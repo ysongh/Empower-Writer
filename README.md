@@ -14,5 +14,8 @@ Build a dapp where writers can upload their draft of their book and story and re
 ## How it works:
 - Writers visit the website and upload a draft of their book and story
 - Writers publish their draft for readers to see
+![Create Story](https://github.com/ysongh/Empower-Writer/blob/master/projectImage/create-story.png "Create Story")
+
 - Readers can give feedback and donations in NEAR tokens to the writers
 - Writers receives feedback and donations from readers
+![Donation](https://github.com/ysongh/Empower-Writer/blob/master/projectImage/donation.png "Donation")
